@@ -1,6 +1,3 @@
-
-#Aqui está uma documentação para o código fornecido. A documentação descreve a finalidade do código, os componentes utilizados e uma explicação detalhada de cada parte do código:
-
 Documentação do Código de Controle de Semáforo
 Descrição
 Este código controla um sistema de semáforo que gerencia o fluxo de veículos e pedestres, utilizando LEDs para representar diferentes estados de sinalização. O sistema também inclui um sensor ultrassônico para detectar a proximidade de veículos, ajustando o tempo dos semáforos conforme necessário.
